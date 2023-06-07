@@ -1,9 +1,9 @@
 # Ekam's Collection of mini projects
-Tech Stack used : HTML, CSS, JavaScript
-Made with the help of udemy course code-with-sahand
-Course link : https://www.udemy.com/course/html-css-js-projects
+- Tech Stack used : HTML, CSS, JavaScript
+- Made with the help of udemy course code-with-sahand
+- Course link : https://www.udemy.com/course/html-css-js-projects
 
-Live at : https://ekam-bitt.github.io/code-with-sahand
+### Live at : https://ekam-bitt.github.io/code-with-sahand
 
 ## Project List:
 <ol>
