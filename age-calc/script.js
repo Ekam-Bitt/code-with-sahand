@@ -7,12 +7,7 @@ function calcAge() {
   const name = nameEl.value;
   const dob = new Date(dobEl.value);
   const today = new Date();
-
-  const ageInMilliseconds = today - dob;
-  const ageInYears = Math.floor(
-    ageInMilliseconds / (1000 * 60 * 60 * 24 * 365.25)
-  );
-
+  const ageInYears = today.getFullYear() - dob.getFullYear();
   resultEl.innerHTML = `Hey <b><i>${name}</i></b>, your age is <b>${ageInYears}</b> years!!!`;
 }
 
