@@ -7,8 +7,8 @@
 
 ## Project List:
 <ol>
-  <li><a href="https://ekam-bitt.github.io/code-with-sahand/age-calc/index.html">Age-Calculator</a></li>
-  <li><a href="https://ekam-bitt.github.io/code-with-sahand/tip-calc/index.html">Tip-Calculator</a></li>
+  <li><a href="https://ekam-bitt.github.io/code-with-sahand/age-calc/index.html" target="_blank">Age-Calculator</a></li>
+  <li><a href="https://ekam-bitt.github.io/code-with-sahand/tip-calc/index.html" target="_blank">Tip-Calculator</a></li>
   <li>Project 3 coming soon...</li>
 </ol>
 
