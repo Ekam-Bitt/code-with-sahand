@@ -6,7 +6,8 @@ Live at : https://ekam-bitt.github.io/code-with-sahand
 ## Project List:
 <ol>
   <li><a href="https://ekam-bitt.github.io/code-with-sahand/age-calc/index.html">Age-Calculator</a></li>
-  <li>Project 2 coming soon...</li>
+  <li><a href="https://ekam-bitt.github.io/code-with-sahand/tip-calc/index.html">Tip-Calculator</a></li>
+  <li>Project 3 coming soon...</li>
 </ol>
 
 <br><br>
