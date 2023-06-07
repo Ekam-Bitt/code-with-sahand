@@ -12,5 +12,4 @@
   <li>Project 3 coming soon...</li>
 </ol>
 
-<br><br>
-#### Do star ⭐️ the repo if you liked my work 😊✨
+### Do star ⭐️ the repo if you liked my work 😊✨
